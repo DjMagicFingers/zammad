@@ -354,6 +354,23 @@ do($ = window.jQuery, window) ->
         'Since you didn\'t respond in the last %s minutes your conversation with %s got closed.': 'Поскольку вы не отвечали в течение последних %s минут, ваш разговор с %s был закрыт.'
         'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'Поскольку вы не отвечали в течение последних %s минут, ваш разговор был закрыт.'
         'We are sorry, it takes longer as expected to get an empty slot. Please try again later or send us an email. Thank you!': 'К сожалению, ожидание свободного места требует больше времени. Повторите попытку позже или отправьте нам электронное письмо. Спасибо!'
+      'he':
+        '<strong>Chat</strong> with us!': '<strong>צ\'אט</strong> איתנו!'
+        'Scroll down to see new messages': 'נא לגלול למטה כדי לראות הודעות חדשות'
+        'Online': 'מחובר'
+        'Offline': 'מנותק'
+        'Connecting': 'מתחבר'
+        'Connection re-established': 'חיבור חודש'
+        'Today': 'היום'
+        'Send': 'שליחה'
+        'Chat closed by %s': 'צ\'אט נסגר על ידי %s'
+        'Compose your message...': 'הקלד את הודעתך...'
+        'All colleagues are busy.': 'כל הסוכנים תפוסים.'
+        'You are on waiting list position <strong>%s</strong>.': 'השיחה איתך ברשימת ההמתנה במספר <strong>%s</strong>.'
+        'Start new conversation': 'התחלת שיחה חדשה'
+        'Since you didn\'t respond in the last %s minutes your conversation with <strong>%s</strong> got closed.': 'מאחר ולא ענית ב %s דקות האחרונות, השיחה שלך עם <strong>%s</strong> נסגרה.'
+        'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'מאחר ולא ענית ב %s דקות האחרונות, השיחה שלך נסגרה.'
+        'We are sorry, it takes longer as expected to get an empty slot. Please try again later or send us an email. Thank you!': 'אנחנו מתנצלים,לוקח יותר זמן מהצפוי לקבל סוכן פנוי. נא לנסות מאוחר יותר או לשלוח לנו הודעת מייל. תודה!'
     sessionId: undefined
     scrolledToBottom: true
     scrollSnapTolerance: 10
